@@ -17,3 +17,8 @@ Source from [ClojureScript Quick Start](https://github.com/clojure/clojurescript
   ```
   rlwrap java -cp cljs.jar:src clojure.main repl.clj
   ```
+
+* To build Node project:
+  ```
+  java -cp cljs.jar:src clojure.main node.clj
+  ```
